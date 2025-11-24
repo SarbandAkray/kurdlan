@@ -68,8 +68,8 @@ Makefile*
 *.perspectivev3
 *.xcuserdatad
 
-# VS Code
-.vscode/
+# VS Code (uncomment to ignore)
+# .vscode/
 
 # OS generated files
 .DS_Store
